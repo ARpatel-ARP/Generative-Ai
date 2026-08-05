@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+
+langchain-groq
+langchain-google-genai
+langchain-mistralai
+
+groq
+google-genai
+mistralai
+
+python-dotenv
